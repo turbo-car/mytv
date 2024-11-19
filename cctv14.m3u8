@@ -1,16 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:16261
-#EXTINF:4.120000,
-http://192.168.192.77:35455/ysptp/cctv14.m3u8?ts=http://liveali-tpgq.cctv.cn/live/2e0c956718c0fd5495c1c22337112a0b_16261.TS?wsSecret=6d7d7d65a84aed1bc29775978e338f76&wsTime=1732021681
-#EXTINF:3.320000,
-http://192.168.192.77:35455/ysptp/cctv14.m3u8?ts=http://liveali-tpgq.cctv.cn/live/2e0c956718c0fd5495c1c22337112a0b_16262.TS?wsSecret=04eca407979cc1fa9094008b84397ac3&wsTime=1732021681
-#EXTINF:3.880000,
-http://192.168.192.77:35455/ysptp/cctv14.m3u8?ts=http://liveali-tpgq.cctv.cn/live/2e0c956718c0fd5495c1c22337112a0b_16263.TS?wsSecret=0bb7aa12de0d876188ebbbbae214992c&wsTime=1732021681
-#EXTINF:3.680000,
-http://192.168.192.77:35455/ysptp/cctv14.m3u8?ts=http://liveali-tpgq.cctv.cn/live/2e0c956718c0fd5495c1c22337112a0b_16264.TS?wsSecret=9a04ef7220b087a8104f14707fd119da&wsTime=1732021681
-#EXTINF:3.800000,
-http://192.168.192.77:35455/ysptp/cctv14.m3u8?ts=http://liveali-tpgq.cctv.cn/live/2e0c956718c0fd5495c1c22337112a0b_16265.TS?wsSecret=0276f7e12cd4a0b8bba5f9ffd9887040&wsTime=1732021681
-#EXTINF:4.800000,
-http://192.168.192.77:35455/ysptp/cctv14.m3u8?ts=http://liveali-tpgq.cctv.cn/live/2e0c956718c0fd5495c1c22337112a0b_16266.TS?wsSecret=bc623e3080e264f0e58e8926b98af416&wsTime=1732021681
+
