@@ -112,8 +112,10 @@ http://110.72.35.95:808/hls/13/index.m3u8
 http://14.112.86.101:4022/rtp/239.77.0.43:5146
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视频道",CCTV14 少儿
 http://110.72.35.95:808/hls/14/index.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视频道",CCTV14 音乐
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视频道",CCTV15 音乐
 http://58.20.77.182:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视频道",CCTV16 奥林匹克
+http://61.145.208.64:9003/hls/17/index.m3u8
 
 #港澳台频道
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳台频道",星空卫视
