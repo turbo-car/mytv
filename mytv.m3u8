@@ -45,6 +45,8 @@ http://119.32.12.32:2901/udp/224.1.100.4:11111
 #EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.com/tv/广东公共.png" group-title="广东频道",广东公共
 http://14.112.86.101:4022/rtp/239.77.0.5:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育
+http://14.112.86.101:4022/rtp/239.77.0.6:5146
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育
 http://14.112.86.101:4022/rtp/239.77.1.97:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育
 http://113.101.119.94:808/hls/108/index.m3u8
