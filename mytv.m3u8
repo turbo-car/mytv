@@ -25,6 +25,8 @@ https://stream1.freetv.fun/7e460ca2c95cab3243791ba3b081a4759e1905e86abb5f076d837
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
+http://beishan008.asuscomm.com:8889/bysid/1.m3u8$订阅源|1920x1080
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
 http://223.244.26.190:8082/tvb翡翠.盗源者死全家/易發TV/hls.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
 http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
