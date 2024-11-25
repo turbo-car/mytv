@@ -145,6 +145,10 @@ http://222.241.154.37:9901/tsfile/live/23017_1.m3u8
 https://stream1.freetv.fun/b609f9ba92814ec781d1ed8bd7ce5d87be36984fe6e619bb12cd16664dd5e216.m3u8
 #EXTINF:-1 tvg-name="電影2臺" tvg-id="電影2臺" tvg-logo="https://epg.pw/media/img/logo/1_291.jpg" group-title="港澳台频道",[BD]电影02
 https://stream1.freetv.fun/a5a0e40a62c1b9a7945599b118291fdf1c86de74051a34035c99fe9587f67b3e.ctv
+#EXTINF:-1 tvg-name="劇集1臺" tvg-id="劇集1臺" tvg-logo="https://epg.pw/media/img/logo/1_286.jpg" group-title="港澳台频道",[BD]剧集
+https://stream1.freetv.fun/24e89d32d2d1b527b0c5a95b3fe5115a61f391c390778587d3f8a4a691ca65b5.ctv
+#EXTINF:-1 tvg-name="劇集2臺" tvg-id="劇集2臺" tvg-logo="https://epg.pw/media/img/logo/1_286.jpg" group-title="港澳台频道",[HD]剧集
+https://stream1.freetv.fun/4fb0f7a4804d50b45d89b3974da97a10bfe645b720ce392f1d533dff50872b2d.ctv
 #EXTINF:-1 tvg-id="TVB无线星河" tvg-name="无线星河" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台频道",TVB无线星河
 https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 #EXTINF:-1 tvg-id="TVB无线星河" tvg-name="无线星河" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台频道",TVB无线星河
