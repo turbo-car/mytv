@@ -34,6 +34,8 @@ http://119.32.12.32:2901/udp/224.1.100.122:11111
 http://cdn3.1678520.xyz/live/live1.1.php
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="广东频道",翡翠台
 https://stream1.freetv.fun/6a73a96c43beae5c85f0bad922a12a1fc672891891d5e8125d84fecf248436e0.ctv
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="广东频道",翡翠台
+https://stream1.freetv.fun/44bd1ba645adb14b4f6ea64c0fd9764c02a373898e39bff7c06dc9afe931053d.ctv
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="广东频道",星空卫视
 http://119.32.12.32:2901/udp/224.1.100.13:11111
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="广东频道",星空卫视
