@@ -246,7 +246,7 @@ http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
 
 #电影轮播
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",电影
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",1905电影
 http://xxw.me0.cn/1905dy.php
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",周星驰电影
 http://mtw.so/6oKdhX
