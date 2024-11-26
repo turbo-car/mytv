@@ -218,8 +218,10 @@ http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
 
 #电影轮播
+#EXTINF:-1 group-title="电影轮播" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",1905电影
+http://xxw.me0.cn/1905dy.php
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",周星驰电影
-https://stream1.freetv.fun/80174550a23296241482651109f3be9fdbebcf57a78cbf3797f8a3d3da26d396.ctv
+http://mtw.so/6oKdhX
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",成龙电影
 http://jiaojirentv.top/2020/dy.php?id=3379942
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",X战警电影
