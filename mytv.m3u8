@@ -20,8 +20,6 @@ http://113.101.119.94:808/hls/105/index.m3u8
 https://stream1.freetv.fun/5e0d739979966cb5ecf9dcc179cb55964449ac0f62117c03599c99ad98be26bb.ctv
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723011504142807_68.png",tvb千禧经典
 http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.pw/media/images/channel/2024/01/20/large/20240120223253342117_22.png",MyTV Super
-https://stream1.freetv.fun/7e460ca2c95cab3243791ba3b081a4759e1905e86abb5f076d8372eedd497a2f.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
