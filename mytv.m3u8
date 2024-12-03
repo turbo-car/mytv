@@ -53,6 +53,8 @@ http://113.101.119.94:808/hls/109/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
 https://php.17186.eu.org/gdtv/web/nfws.m3u8  
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东公共.png",广东公共
+https://php.17186.eu.org/gdtv/web/gdgg.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东公共.png",广东公共
 http://mom.cloudns.be:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东公共.png",广东公共
 http://119.32.12.32:2901/udp/224.1.100.4:11111
