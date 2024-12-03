@@ -76,12 +76,6 @@ http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 http://119.32.12.32:2901/udp/224.1.100.13:11111
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
-https://stream1.freetv.fun/a2764fcf64d61e4ea32f4f9972a630f99d2d3fac7cef4d2afb96818616f8e9d7.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
-https://stream1.freetv.fun/d669fabd35daeaf67952480c48acf16e6eef6fa2a12919e2ca169894e33a93d7.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
-http://110.185.240.152:55555/udp/239.93.0.156:2193$订阅源|1920x1080
 
 #央视频道
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/CCTV1.png",CCTV1 综合
