@@ -95,23 +95,23 @@ http://wouu.net:9977/udp/239.93.0.156:2193
 
 #☘️广东频道
 #EXTINF:-1 group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
-http://mom.cloudns.be:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
+http://mom.cloudns.be:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
-http://119.145.76.245:10000/udp/239.77.0.114:5146$订阅源
+http://119.145.76.245:10000/udp/239.77.0.114:5146
 #EXTINF:-1 group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
-http://mom.cloudns.be:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
+http://mom.cloudns.be:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东新闻
-http://mom.cloudns.be:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
+http://mom.cloudns.be:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广东民生.png",广东民生
-http://mom.cloudns.be:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
+http://mom.cloudns.be:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广东民生.png",广东民生
-http://119.145.76.245:10000/udp/239.77.0.225:5146$订阅源
+http://119.145.76.245:10000/udp/239.77.0.225:5146
 #EXTINF:-1 group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/佛山综合.png",佛山综合
-http://119.145.76.245:10000/udp/239.253.43.57:5146$订阅源
+http://119.145.76.245:10000/udp/239.253.43.57:5146
 #EXTINF:-1 group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/茂名综合.png",茂名综合
-http://119.145.76.245:10000/udp/239.77.0.206:5146$订阅源
+http://119.145.76.245:10000/udp/239.77.0.206:5146
 #EXTINF:-1 group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/茂名公共.png",茂名公共
-http://119.145.76.245:10000/udp/239.77.0.207:5146$订阅源
+http://119.145.76.245:10000/udp/239.77.0.207:5146
 
 #央视频道
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/CCTV1.png",CCTV1 综合
