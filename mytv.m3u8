@@ -353,7 +353,7 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源
 
 #电影轮播
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",周星驰电影
-http://120.77.28.4:8648/huya.php?id=11342412
+http://rihou.cc:555/hy.php?id=11342412
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",林正英电影
 http://120.77.28.4:8648/huya.php?id=11342421
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影轮播",刘德华电影
