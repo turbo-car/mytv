@@ -2,8 +2,6 @@
 #广东频道
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视  
 https://php.17186.eu.org/gdtv/web/gdys.m3u8 
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视  
-https://tcdn.itouchtv.cn/live/gdys.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
 http://222.218.158.219:8181/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
@@ -69,7 +67,6 @@ http://121.33.239.242:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
 http://14.112.86.101:4022/rtp/239.77.0.6:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
-https://tcdn.itouchtv.cn/live/gdty.m3u8
 http://14.112.86.101:4022/rtp/239.77.1.97:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
 http://113.101.119.94:808/hls/108/index.m3u8
