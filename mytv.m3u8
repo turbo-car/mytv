@@ -12,8 +12,18 @@ http://58.252.12.164:8000/udp/239.77.0.217:5146
 http://mom.cloudns.be:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
 http://14.112.86.101:4022/rtp/239.77.0.11:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/抗日战争电影.png",抗日战争电影
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/抗日战争电影.png",抗日战争电影1
 http://111.67.193.2:35455/yy/1354931585
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/抗日战争电影.png",抗日战争电影1
+http://jiaojirentv.top/2020/yy.php?id=1354931585
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/抗日战争电影.png",抗日战争电影1
+http://rihou.cc:555/yy.php?id=1354931585
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/抗日战争电影.png",抗日战争电影2
+http://rihou.cc:555/yy.php?id=1354930204
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/抗日战争电影.png",抗日战争电影2
+http://111.67.193.2:35455/yy/1354930204
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/抗日战争电影.png",抗日战争电影2
+http://jiaojirentv.top/2020/yy.php?id=1354930204
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
