@@ -114,6 +114,8 @@ http://119.32.12.32:2901/udp/224.1.100.13:11111
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/无线功夫台.png",无线功夫台
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/无线功夫台.png",无线综艺
+http://openhls-tct.douyucdn2.cn/dyliveflv3a/7919720rHUJT47jg_2000.m3u8?txSecret=9e8b96a7bd14966655c7d8ad6d8f5cc5&txTime=6754216e&token=cpn-androidmpro-0-7919720-0df569a72cc6ed3cf940768cfa823378&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=404741300
 
 #央视频道
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/CCTV1.png",CCTV1 综合
