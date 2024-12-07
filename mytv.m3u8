@@ -49,7 +49,7 @@ https://php.17186.eu.org/gdtv/web/gdzy.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
 https://php.17186.eu.org/gdtv/web/nfws.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
-http://27.41.245.2:9003/hls/48/index.m3u8
+http://27.41.245.2:9003/hls/49/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
 http://119.32.12.32:2901/udp/224.1.100.7:11111
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
@@ -89,6 +89,8 @@ http://119.32.12.32:2901/udp/224.1.100.120:11111
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",岭南戏曲
 https://php.17186.eu.org/gdtv/web/lnxq.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",岭南戏曲
+http://27.41.245.2:9003/hls/44/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",岭南戏曲
 http://14.112.86.101:4022/rtp/239.77.0.16:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723011504142807_68.png",tvb千禧经典
 https://stream1.freetv.fun/5e0d739979966cb5ecf9dcc179cb55964449ac0f62117c03599c99ad98be26bb.ctv
@@ -98,6 +100,8 @@ http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 http://119.32.12.32:2901/udp/224.1.100.13:11111
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/无线功夫台.png",无线功夫台
+http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 
 #央视频道
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/CCTV1.png",CCTV1 综合
