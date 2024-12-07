@@ -459,7 +459,10 @@ http://rihou.cc:555/hy.php?id=11352898
 http://rihou.cc:555/hy.php?id=26355790
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="电视剧轮播",伪装者
 http://111.67.193.2:35455/yy/1354936244
-http://36.27.211.21:456/15013_xv_1354936244_1354936244_0_0_0-15013_xa_1354936244_1354936244_0_0_0-0-0.m3u8?uuid=512dbebc45ee4349a4821ecb9e150c2e&org=yyweb&m=d371a9376479e8df9261af222b36a34d&r=733753194&v=1&t=1733557405&uid=0
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="电视剧轮播",伪装者
+http://jiaojirentv.top/2020/yy.php?id=1354936244
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="电视剧轮播",伪装者
+http://rihou.cc:555/yy.php?id=1354936244
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/西游记后传.png" group-title="电视剧轮播",西游记后传
 http://111.67.193.2:35455/yy/1353392400
 #EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/隋唐英雄传.png" group-title="电视剧轮播",隋唐英雄传
