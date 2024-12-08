@@ -1,8 +1,6 @@
 #EXTM3U
 #广东频道
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
-http://222.218.158.219:8181/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
 http://113.101.119.94:808/hls/110/index.m3u8 
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
 http://58.252.12.164:8000/udp/239.77.0.217:5146   
