@@ -15,7 +15,7 @@ http://58.252.12.164:8000/udp/239.77.0.217:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
 http://14.112.86.101:4022/rtp/239.77.0.11:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png",抗日战争电影1
-http://111.67.193.2:35455/yy/1354931585
+http://live.nctv.top/6688/yy.php?id=1354931585
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png",抗日战争电影1
 http://jiaojirentv.top/2020/yy.php?id=1354931585
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png",抗日战争电影1
@@ -120,6 +120,7 @@ http://jiaojirentv.top/2020/dy.php?id=7919720
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/7919720rHUJT47jg_2000.m3u8?txSecret=9e8b96a7bd14966655c7d8ad6d8f5cc5&txTime=6754216e&token=cpn-androidmpro-0-7919720-0df569a72cc6ed3cf940768cfa823378&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=404741300
 #EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://live.fanmingming.com/tv/美亞電影台(HK).png" group-title="港澳台AKTV",美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+
 #央视频道
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/CCTV1.png",CCTV1 综合
 http://14.112.86.101:4022/rtp/239.77.0.30:5146
