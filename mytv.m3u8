@@ -47,6 +47,8 @@ https://stream1.freetv.fun/6a73a96c43beae5c85f0bad922a12a1fc672891891d5e8125d84f
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
 https://stream1.freetv.fun/44bd1ba645adb14b4f6ea64c0fd9764c02a373898e39bff7c06dc9afe931053d.ctv
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
+http://119.123.79.35:9600/hls/17/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
 http://119.32.12.32:2901/udp/224.1.100.24:11111
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
 http://27.41.245.2:9003/hls/48/index.m3u8
