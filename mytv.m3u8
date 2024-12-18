@@ -386,8 +386,6 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",粤语电影
 http://openhls-tct.douyucdn2.cn/dyliveflv3a/5033502raHkDrFKP_2000.m3u8?txSecret=f40bdc50fd1c0d3bd60065cbb610471c&txTime=67542039&token=cpn-androidmpro-0-5033502-d11a2cfd970a8fb62597e2f35b9ea389&did=10000000000000000000000000001501&origin=tct&vhost=play4&sid=404851862
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",周星驰电影
-http://rihou.cc:555/hy.php?id=11336587
-#EXTINF:-1 group-title="电影轮播" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",周星驰电影
 http://cdn.jdshipin.com:8880/huyaqp.php?id=11336587
 #EXTINF:-1 group-title="电影轮播" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",林正英电影
 http://rihou.cc:555/hy.php?id=11342421
