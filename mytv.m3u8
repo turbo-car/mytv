@@ -54,6 +54,8 @@ http://219.159.194.129:8181/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
 http://113.101.119.94:808/hls/108/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东少儿
+http://119.123.79.35:9600/hls/26/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东少儿
 http://mom.cloudns.be:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东少儿
 http://219.159.194.172:8181/tsfile/live/1005_1.m3u8
@@ -132,11 +134,19 @@ http://14.112.86.101:4022/rtp/239.77.0.35:5146
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/CCTV7.png",CCTV7 国防军事
 http://14.112.86.101:4022/rtp/239.77.0.36:5146
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv8.png",CCTV8 电视剧
+http://119.123.79.35:9600/hls/13/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv8.png",CCTV8 电视剧
 http://14.112.86.101:4022/rtp/239.77.0.37:5146
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv9.png",CCTV9 纪录
+http://119.123.79.35:9600/hls/10/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv9.png",CCTV9 纪录
 http://14.112.86.101:4022/rtp/239.77.0.38:5146
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv10.png",CCTV10 科教
+http://119.123.79.35:9600/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv10.png",CCTV10 科教
 http://14.112.86.101:4022/rtp/239.77.0.39:5146
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv11.png",CCTV11 戏曲
+http://119.123.79.35:9600/hls/12/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv11.png",CCTV11 戏曲
 http://14.112.86.101:4022/rtp/239.77.0.40:5146
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv12.png",CCTV12 社会与法
@@ -145,6 +155,8 @@ http://14.112.86.101:4022/rtp/239.77.0.41:5146
 http://14.112.86.101:4022/rtp/239.77.0.42:5146
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv14.png",CCTV14 少儿
 http://14.112.86.101:4022/rtp/239.77.0.43:5146
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv15.png",CCTV15 音乐
+http://119.123.79.35:9600/hls/23/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv15.png",CCTV15 音乐
 http://58.20.77.182:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://epg.v1.mk/logo/cctv16.png",CCTV16 奥林匹克
