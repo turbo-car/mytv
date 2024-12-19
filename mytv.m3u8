@@ -964,6 +964,8 @@ http://113.100.72.88:8899/udp/239.77.0.46:5146
 #EXTINF:-1 tvg-name="湖南卫视" group-title="☘️卫视频道" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
 http://113.100.72.88:8899/udp/239.77.1.29:5146
 #EXTINF:-1 tvg-name="湖南卫视高清" group-title="☘️卫视频道" tvg-logo="https://live.fanmingming.com/tv/湖南卫视高清.png",湖南卫视高清
+http://119.123.79.35:9600/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视高清" group-title="☘️卫视频道" tvg-logo="https://live.fanmingming.com/tv/湖南卫视高清.png",湖南卫视高清
 http://113.100.72.88:8899/udp/239.77.1.5:5146
 #EXTINF:-1 tvg-name="湖南卫视高清" group-title="☘️卫视频道" tvg-logo="https://live.fanmingming.com/tv/湖南卫视高清.png",湖南卫视高清
 http://113.100.72.88:8899/udp/239.77.1.129:5146
