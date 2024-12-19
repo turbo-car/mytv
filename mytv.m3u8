@@ -771,26 +771,6 @@ http://113.100.72.88:8899/udp/239.253.43.74:5146
 http://113.100.72.88:8899/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-name="广州竞赛高清" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广州竞赛高清.png",广州竞赛高清
 http://113.100.72.88:8899/udp/239.253.43.75:5146
-#EXTINF:-1 tvg-name="广视课堂 小学一" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广视课堂 小学一.png",广视课堂 小学一
-http://113.100.72.88:8899/udp/239.253.43.76:5146
-#EXTINF:-1 tvg-name="广视课堂 小学二" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广视课堂 小学二.png",广视课堂 小学二
-http://113.100.72.88:8899/udp/239.253.43.77:5146
-#EXTINF:-1 tvg-name="广视课堂 小学三" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广视课堂 小学三.png",广视课堂 小学三
-http://113.100.72.88:8899/udp/239.253.43.78:5146
-#EXTINF:-1 tvg-name="广视课堂 小学四" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广视课堂 小学四.png",广视课堂 小学四
-http://113.100.72.88:8899/udp/239.253.43.79:5146
-#EXTINF:-1 tvg-name="广视课堂 小学五" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广视课堂 小学五.png",广视课堂 小学五
-http://113.100.72.88:8899/udp/239.253.43.80:5146
-#EXTINF:-1 tvg-name="广视课堂 小学六" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广视课堂 小学六.png",广视课堂 小学六
-http://113.100.72.88:8899/udp/239.253.43.81:5146
-#EXTINF:-1 tvg-name="广视课堂 初一" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广视课堂 初一.png",广视课堂 初一
-http://113.100.72.88:8899/udp/239.253.43.89:5146
-#EXTINF:-1 tvg-name="广视课堂 初二" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广视课堂 初二.png",广视课堂 初二
-http://113.100.72.88:8899/udp/239.253.43.90:5146
-#EXTINF:-1 tvg-name="广视课堂 初三" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广视课堂 初三.png",广视课堂 初三
-http://113.100.72.88:8899/udp/239.253.43.91:5146
-#EXTINF:-1 tvg-name="广视课堂 高一" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广视课堂 高一.png",广视课堂 高一
-http://113.100.72.88:8899/udp/239.253.43.92:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
 http://113.100.72.88:8899/udp/239.77.0.55:5146
 #EXTINF:-1 tvg-name="深圳卫视" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
@@ -1025,7 +1005,7 @@ http://113.100.72.88:8899/udp/239.253.43.61:5146
 http://113.100.72.88:8899/udp/239.253.43.64:5146
 #EXTINF:-1 tvg-name="徐闻综合高清" group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/徐闻综合高清.png",徐闻综合高清
 http://113.100.72.88:8899/udp/239.253.43.112:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" group-title="☘️卫视频道" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
 http://113.100.72.88:8899/udp/239.77.0.46:5146
 #EXTINF:-1 tvg-name="湖南卫视" group-title="☘️卫视频道" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
 http://113.100.72.88:8899/udp/239.77.1.29:5146
