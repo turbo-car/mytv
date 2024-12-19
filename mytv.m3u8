@@ -509,7 +509,6 @@ http://rihou.cc:555/hy.php?id=23863796
 #EXTINF:-1 group-title="埋堆堆" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/埋堆堆.png",笑看风云
 http://rihou.cc:555/hy.php?id=23865058
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="广东卫视高清"  group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广东卫视高清.png",广东卫视高清
 http://113.100.72.88:8899/udp/239.77.1.19:5146
 #EXTINF:-1 tvg-name="广东卫视高清"  group-title="☘️广东频道" tvg-logo="https://live.fanmingming.com/tv/广东卫视高清.png",广东卫视高清
