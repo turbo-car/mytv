@@ -126,16 +126,6 @@ http://zzy789.xyz/douyu1.php?id=7919720
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/tv/NEWTV超级综艺.png",无线综艺
 http://jiaojirentv.top/2020/dy.php?id=7919720
 
-
-
-#EXTINF:23 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠剧集台(北美)
-
-#EXTINF:24 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-
-#EXTINF:22 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/hk-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 美亞電影台(HK)
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.pw/media/img/logo/1_291.jpg",[BD]电影02
 https://stream1.freetv.fun/a5a0e40a62c1b9a7945599b118291fdf1c86de74051a34035c99fe9587f67b3e.ctv
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://epg.pw/media/img/logo/1_286.jpg",[BD]剧集
