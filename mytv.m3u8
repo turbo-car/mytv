@@ -86,6 +86,10 @@ http://119.123.79.35:9600/hls/22/index.m3u8
 http://171.104.198.50:8181/tsfile/live/1027_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",周星驰电影(粵語）
 http://cdn.jdshipin.com:8880/huyaqp.php?id=11336587
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="广东频道",粤语电影1
+http://epg.112114.xyz/douyu/6566671
+#EXTINF:-1 tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="广东频道",粤语电影2
+http://epg.112114.xyz/douyu/1226741
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC影迷电影
 http://119.123.79.35:9600/hls/28/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/淘电影.png",淘电影
