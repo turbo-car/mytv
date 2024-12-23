@@ -165,119 +165,140 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://gongdian.top/logo/tv/点掌财经.png",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 
-#AKTV
-#EXTINF:1 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/28ai" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:2 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/channel5hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 5 HD
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:3 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/channel8hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 8 HD
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:4 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel U HD
-http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:5 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/mytvsuper18" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:6 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/popc" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:7 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/rockaction" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:8 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbplus" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:9 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:10 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvbs-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", TVBS-新聞台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:11 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/tvn" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:12 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-12" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天亞洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:13 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-8" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中天新聞台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:14 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-10" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 中視
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:15 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-15" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 千禧經典台(HK)
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:16 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/hk" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 娛樂新聞台(HK)
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:17 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-9" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 寰宇新聞台
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:18 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-13" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 日本全天新聞
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:19 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-19" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 明珠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:20 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-2" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:21 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:26 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-11" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 華視
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:27 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-6" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 靖天電影台
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:28 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-3" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:29 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-4" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰資訊
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:30 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-5" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 鳳凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:31 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-21" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:32 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-22" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華日韓台
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:33 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-7" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華經典台
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:34 group-title="AKTV" aktv-server-group="AKTV" tvg-id="aktv/null-23" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 龍華電影台
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:35 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/axn" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", AXN
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-#EXTINF:36 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/ifun" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", i-Fun 動漫台
-http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-#EXTINF:37 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/lovenaturehd" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Love Nature HD
-http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:38 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/now" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now星影台
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:39 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/now-1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", Now爆谷台
-http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-#EXTINF:40 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/viutv99" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", viutv 99
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:41 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/viutv696" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", viutv6 96
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:42 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/null-1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", 无线新闻台(北美)	
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:43 group-title="AKTV" aktv-server-group="AKTV2" tvg-id="aktv2/null" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv", 東森新聞
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:44 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/animaxhk" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Animax(HK)
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:45 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/astroaec" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Astro AEC
-http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-#EXTINF:46 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/astroiqiyi" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Astro iQIYI
-http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-#EXTINF:47 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/astroxinghe" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Astro Xing He 
-http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
-#EXTINF:48 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/dw" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:49 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/france24" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:50 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/kix" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:51 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/lovenaturehd" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Love Nature HD
-http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:52 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/nhkworldjapan" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", NHK World-Japan
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:53 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/nhk" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", NHK東京総合
-http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-#EXTINF:54 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/nickjr" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:55 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/nickelodeon" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Nickelodeon
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:56 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/thrill" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:57 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/zoomoo" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:58 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null-3" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 亞洲新聞台
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:59 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 東方衛視國際頻道
-http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:60 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/null-2" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 無線衛星新聞台
-http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="鳳凰中文台" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文台.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰中文台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港台国际" tvg-name="鳳凰資訊台" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊台.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰資訊台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港台国际" tvg-name="鳳凰香港台" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港台.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰香港台
+https://live.hkdvb.com/hls/live/85.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" epg-url="https://epg.112114.xyz/pp.xml",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="翡翠台4k" tvg-logo="https://epg.112114.xyz/logo/翡翠台4k.png" epg-url="https://epg.112114.xyz/pp.xml",翡翠台4k
+https://live.hkdvb.com/hls/live/800.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" epg-url="https://epg.112114.xyz/pp.xml",明珠台
+https://live.hkdvb.com/hls/live/84.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="TVB PLUS" tvg-logo="https://epg.112114.xyz/logo/TVB PLUS.png" epg-url="https://epg.112114.xyz/pp.xml",TVB PLUS
+https://live.hkdvb.com/hls/live/82.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" epg-url="https://epg.112114.xyz/pp.xml",TVB星河
+http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="TVB生活台" tvg-logo="https://epg.112114.xyz/logo/TVB生活台.png" epg-url="https://epg.112114.xyz/pp.xml",TVB生活台
+http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="华丽翡翠台" tvg-logo="https://epg.112114.xyz/logo/华丽翡翠台.png" epg-url="https://epg.112114.xyz/pp.xml",华丽翡翠台
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="亚洲武侠" tvg-logo="https://epg.112114.xyz/logo/亚洲武侠.png" epg-url="https://epg.112114.xyz/pp.xml",亚洲武侠
+http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="无线新闻台" tvg-logo="https://epg.112114.xyz/logo/无线新闻台.png" epg-url="https://epg.112114.xyz/pp.xml",无线新闻台
+https://live.hkdvb.com/hls/live/83.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="華語劇台" tvg-logo="https://epg.112114.xyz/logo/華語劇台.png" epg-url="https://epg.112114.xyz/pp.xml",華語劇台
+https://live.hkdvb.com/hls/live/89.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="黃金華劇台" tvg-logo="https://epg.112114.xyz/logo/黃金華劇台.png" epg-url="https://epg.112114.xyz/pp.xml",黃金華劇台
+https://live.hkdvb.com/hls/live/90.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="粵語片台" tvg-logo="https://epg.112114.xyz/logo/粵語片台.png" epg-url="https://epg.112114.xyz/pp.xml",粵語片台
+https://live.hkdvb.com/hls/live/200.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" epg-url="https://epg.112114.xyz/pp.xml",美亚电影台
+https://live.hkdvb.com/hls/live/201.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="Popc" tvg-logo="https://epg.112114.xyz/logo/Popc.png" epg-url="https://epg.112114.xyz/pp.xml",Popc
+https://live.hkdvb.com/hls/live/206.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOY TV.png" epg-url="https://epg.112114.xyz/pp.xml",HOY TV
+https://live.hkdvb.com/hls/live/77.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="HOY 78" tvg-logo="https://epg.112114.xyz/logo/HOY 78.png" epg-url="https://epg.112114.xyz/pp.xml",HOY 78
+https://live.hkdvb.com/hls/live/78.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="HOY 76" tvg-logo="https://epg.112114.xyz/logo/HOY 76.png" epg-url="https://epg.112114.xyz/pp.xml",HOY 76
+https://live.hkdvb.com/hls/live/76.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" epg-url="https://epg.112114.xyz/pp.xml",ViuTV
+https://live.hkdvb.com/hls/live/99.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="ViuTV Six" tvg-logo="https://epg.112114.xyz/logo/ViuTV Six.png" epg-url="https://epg.112114.xyz/pp.xml",ViuTV Six
+https://live.hkdvb.com/hls/live/96.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="Now Popcorn 爆谷台" tvg-logo="https://epg.112114.xyz/logo/Now Popcorn 爆谷台.png" epg-url="https://epg.112114.xyz/pp.xml",Now Popcorn 爆谷台
+https://live.hkdvb.com/hls/live/133.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="Now Superstars 星影台" tvg-logo="https://epg.112114.xyz/logo/Now Superstars 星影台.png" epg-url="https://epg.112114.xyz/pp.xml",Now Superstars 星影台
+https://live.hkdvb.com/hls/live/138.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="Now NEWS 新聞台" tvg-logo="https://epg.112114.xyz/logo/Now NEWS 新聞台.png" epg-url="https://epg.112114.xyz/pp.xml",Now NEWS 新聞台
+https://live.hkdvb.com/hls/live/332.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="Now Sports 英超1台" tvg-logo="https://epg.112114.xyz/logo/Now Sports 英超1台.png" epg-url="https://epg.112114.xyz/pp.xml",Now Sports 英超1台
+https://live.hkdvb.com/hls/live/621.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="Now Sports Prime" tvg-logo="https://epg.112114.xyz/logo/Now Sports Prime.png" epg-url="https://epg.112114.xyz/pp.xml",Now Sports Prime
+https://live.hkdvb.com/hls/live/630.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="Now Sports 632" tvg-logo="https://epg.112114.xyz/logo/Now Sports 632.png" epg-url="https://epg.112114.xyz/pp.xml",Now Sports 632
+https://live.hkdvb.com/hls/live/632.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="Now Sports 641" tvg-logo="https://epg.112114.xyz/logo/Now Sports 641.png" epg-url="https://epg.112114.xyz/pp.xml",Now Sports 641
+https://live.hkdvb.com/hls/live/641.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="Now Sports 642" tvg-logo="https://epg.112114.xyz/logo/Now Sports 642.png" epg-url="https://epg.112114.xyz/pp.xml",Now Sports 642
+https://live.hkdvb.com/hls/live/642.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" epg-url="https://epg.112114.xyz/pp.xml",RTHK31
+https://live.hkdvb.com/hls/live/31.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" epg-url="https://epg.112114.xyz/pp.xml",RTHK32
+https://live.hkdvb.com/hls/live/32.m3u8?token=275839252994167
+#EXTINF:-1 group-title="港台国际" tvg-name="RTHK33" tvg-logo="https://epg.112114.xyz/logo/RTHK33.png" epg-url="https://epg.112114.xyz/pp.xml",RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
+#EXTINF:-1 group-title="港台国际" tvg-name="RTHK34" tvg-logo="https://epg.112114.xyz/logo/RTHK34.png" epg-url="https://epg.112114.xyz/pp.xml",RTHK34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
+#EXTINF:-1 group-title="港台国际" tvg-name="RTHK35" tvg-logo="https://epg.112114.xyz/logo/RTHK35.png" epg-url="https://epg.112114.xyz/pp.xml",RTHK35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
+#EXTINF:-1 group-title="港台国际" tvg-name="Fashion TV" tvg-logo="https://epg.112114.xyz/logo/Fashion TV.png" epg-url="https://epg.112114.xyz/pp.xml",Fashion TV
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="龙华日韩" tvg-logo="https://epg.112114.xyz/logo/龙华日韩.png" epg-url="https://epg.112114.xyz/pp.xml",龙华日韩
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
+#EXTINF:-1 group-title="港台国际" tvg-name="龙华电影" tvg-logo="https://epg.112114.xyz/logo/龙华电影.png" epg-url="https://epg.112114.xyz/pp.xml",龙华电影
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
+#EXTINF:-1 group-title="港台国际" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" epg-url="https://epg.112114.xyz/pp.xml",龙华偶像
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn12
+#EXTINF:-1 group-title="港台国际" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" epg-url="https://epg.112114.xyz/pp.xml",龙华戏剧
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn18
+#EXTINF:-1 group-title="港台国际" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" epg-url="https://epg.112114.xyz/pp.xml",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="港台国际" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" epg-url="https://epg.112114.xyz/pp.xml",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="港台国际" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" epg-url="https://epg.112114.xyz/pp.xml",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="港台国际" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" epg-url="https://epg.112114.xyz/pp.xml",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="港台国际" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS新闻台
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="三立戏剧台" tvg-logo="https://epg.112114.xyz/logo/三立戏剧台.png" epg-url="https://epg.112114.xyz/pp.xml",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="八大戏剧台" tvg-logo="https://epg.112114.xyz/logo/八大戏剧台.png" epg-url="https://epg.112114.xyz/pp.xml",八大戏剧台
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="八大第1台" tvg-logo="https://epg.112114.xyz/logo/八大第1台.png" epg-url="https://epg.112114.xyz/pp.xml",八大第1台
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="八大综合台" tvg-logo="https://epg.112114.xyz/logo/八大综合台.png" epg-url="https://epg.112114.xyz/pp.xml",八大综合台
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育.png" epg-url="https://epg.112114.xyz/pp.xml",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="港台国际" tvg-name="纬来育乐" tvg-logo="https://epg.112114.xyz/logo/纬来育乐.png" epg-url="https://epg.112114.xyz/pp.xml",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="港台国际" tvg-name="纬来日本" tvg-logo="https://epg.112114.xyz/logo/纬来日本.png" epg-url="https://epg.112114.xyz/pp.xml",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="港台国际" tvg-name="东森财经" tvg-logo="https://epg.112114.xyz/logo/东森财经.png" epg-url="https://epg.112114.xyz/pp.xml",东森财经
+rtmp://f13h.mine.nu/sat/tv571
+#EXTINF:-1 group-title="港台国际" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" epg-url="https://epg.112114.xyz/pp.xml",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="港台国际" tvg-name="非凡新闻" tvg-logo="https://epg.112114.xyz/logo/非凡新闻.png" epg-url="https://epg.112114.xyz/pp.xml",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="港台国际" tvg-name="MoMo综合" tvg-logo="https://epg.112114.xyz/logo/MoMo综合.png" epg-url="https://epg.112114.xyz/pp.xml",MoMo综合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="港台国际" tvg-name="ELEVEN体育1" tvg-logo="https://epg.112114.xyz/logo/ELEVEN体育1.png" epg-url="https://epg.112114.xyz/pp.xml",ELEVEN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="港台国际" tvg-name="ELEVEN体育2" tvg-logo="https://epg.112114.xyz/logo/ELEVEN体育2.png" epg-url="https://epg.112114.xyz/pp.xml",ELEVEN体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="港台国际" tvg-name="大爱1台" tvg-logo="https://epg.112114.xyz/logo/大爱1台.png" epg-url="https://epg.112114.xyz/pp.xml",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="大爱2台" tvg-logo="https://epg.112114.xyz/logo/大爱2台.png" epg-url="https://epg.112114.xyz/pp.xml",大爱2台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="美亚C+" tvg-logo="https://epg.112114.xyz/logo/美亚C+.png" epg-url="https://epg.112114.xyz/pp.xml",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="韩国电影1" tvg-logo="https://epg.112114.xyz/logo/韩国电影1.png" epg-url="https://epg.112114.xyz/pp.xml",韩国电影1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 group-title="港台国际" tvg-name="韩国电影2" tvg-logo="https://epg.112114.xyz/logo/韩国电影2.png" epg-url="https://epg.112114.xyz/pp.xml",韩国电影2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 group-title="港台国际" tvg-name="韩国电影3" tvg-logo="https://epg.112114.xyz/logo/韩国电影3.png" epg-url="https://epg.112114.xyz/pp.xml",韩国电影3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+#EXTINF:-1 group-title="港台国际" tvg-name="亚洲卫视" tvg-logo="https://epg.112114.xyz/logo/亚洲卫视.png" epg-url="https://epg.112114.xyz/pp.xml",亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+#EXTINF:-1 group-title="港台国际" tvg-name="环球电视" tvg-logo="https://epg.112114.xyz/logo/环球电视.png" epg-url="https://epg.112114.xyz/pp.xml",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台国际" tvg-name="红牛运动" tvg-logo="https://epg.112114.xyz/logo/红牛运动.png" epg-url="https://epg.112114.xyz/pp.xml",红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #🎬电影频道
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
