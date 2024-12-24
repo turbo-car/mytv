@@ -293,7 +293,7 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="港台国际" tvg-name="红牛运动" tvg-logo="https://epg.112114.xyz/logo/红牛运动.png" epg-url="https://epg.112114.xyz/pp.xml",红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#🎬电影频道
+#电影频道
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://119.125.134.228:9902/tsfile/live/1027_1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
