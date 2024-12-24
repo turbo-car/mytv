@@ -71,8 +71,6 @@ http://120.238.94.10:9901/tsfile/live/1011_1.m3u8
 http://171.110.42.2:8181/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东民生.png",广东民生
 http://14.212.185.71:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东民生.png",广东民生
-http://171.110.42.2:8181/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东少儿
 http://119.123.79.35:9600/hls/26/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东少儿
