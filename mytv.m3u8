@@ -479,7 +479,7 @@ http://huanqiuzhibo.cn/manifest/huya.php?id=23865058
 
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1
 http://119.123.79.35:9600/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" group-title="视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2
 http://119.123.79.35:9600/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3
 http://119.123.79.35:9600/hls/3/index.m3u8
