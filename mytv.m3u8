@@ -35,6 +35,8 @@ http://120.238.94.10:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视
 http://171.110.42.2:8181/tsfile/live/1008_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
+http://cdn2.132.us.kg/live/gdty/stream.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
 http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
 http://14.212.185.71:9901/tsfile/live/1003_1.m3u8
