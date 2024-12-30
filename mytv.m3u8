@@ -139,8 +139,6 @@ http://120.77.28.4:8648/douyu.php?id=5033502
 http://120.77.28.4:8648/douyu.php?id=6566671
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",粤语版电影5
 http://120.77.28.4:8648/douyu.php?id=1226741
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",粤语极清电影
-https://pullhw.zhaoyangyang.cn/live/8746728.flv?auth_info=%2FK2v%2FtMTZxYh4ggwvvxTsAL%2B2HdFj0CZyaW07X9H2XM%3D.71576673384274654d6f304e76514e70
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC影迷电影
 http://219.159.194.28:8181/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC影迷电影
