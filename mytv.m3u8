@@ -35,11 +35,11 @@ http://epg.112114.xyz/douyu/1226741
 http://120.77.28.4:8648/douyu.php?id=5033502
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC影迷电影
 http://219.159.194.28:8181/tsfile/live/1020_1.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC影迷电影
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC影迷电影
 http://113.15.185.150:8181/tsfile/live/1020_1.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC家庭影院
 http://113.15.185.150:8181/tsfile/live/1018_1.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png",CHC动作电影
 http://113.15.185.150:8181/tsfile/live/1019_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.112114.xyz/logo/淘电影.png",淘电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2
