@@ -124,7 +124,7 @@ https://live.hkdvb.com/hls/live/81.m3u8?token=275839252994167
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
-http://119.32.12.32:2901/udp/224.1.100.13:11111
+https://stream1.freetv.fun/xing-kong-wei-shi-2.ctv
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/tv/tv/NEWTV超级电视剧.png",无线功夫台
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/tv/NEWTV超级综艺.png",无线综艺
