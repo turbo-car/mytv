@@ -13,10 +13,18 @@ http://113.15.184.196:8181/tsfile/live/1002_1.m3u8
 http://113.15.184.196:8181/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广西 | 广东体育
 http://113.15.184.196:8181/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广西 | 广东体育
+http://219.159.194.244:8181/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广西 | 广东体育
+http://222.218.158.141:8181/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png",广西 | 嘉佳卡通
 http://171.38.65.171:8181/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png",重庆 | 嘉佳卡通
 http://183.66.15.146:60901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png",山东 | 嘉佳卡通
+http://144.52.160.109:9901/tsfile/live/1073_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png",CF | 嘉佳卡通
+https://stream1.freetv.fun/jia-jia-qia-tong-14.ctv
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
 http://113.101.119.62:808/hls/110/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
@@ -41,6 +49,10 @@ http://113.101.119.26:808/hls/109/index.m3u8
 http://113.101.119.62:808/hls/108/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东 | 广东体育
 http://113.101.119.26:808/hls/108/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东 | 广东体育
+http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",CF | 广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东 | 广东新闻
 http://113.101.119.62:808/hls/106/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东 | 广东新闻
