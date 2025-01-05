@@ -204,9 +204,7 @@ http://222.218.159.86:8181/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5
 http://219.159.194.244:8181/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+
-http://222.218.159.86:8181/tsfile/live/0018_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+
-http://219.159.194.244:8181/tsfile/live/0018_1.m3u8
+http://112.6.197.24:9921/hls/6/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6
 http://222.218.159.86:8181/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6
