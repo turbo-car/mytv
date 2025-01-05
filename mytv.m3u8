@@ -77,6 +77,8 @@ http://113.101.119.26:808/hls/109/index.m3u8
 http://113.86.205.6:808/hls/109/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",广东 | 大湾区卫视
 http://113.86.205.59:808/hls/109/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",广东 | 大湾区卫视
+http://113.118.13.254:808/hls/132/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东 | 广东体育
 http://113.101.119.62:808/hls/108/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东 | 广东体育
