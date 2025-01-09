@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广西 | 广东影视
+http://171.104.192.157:8181/tsfile/live/1021_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广西 | 广东影视
 http://222.218.159.86:8181/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广西 | 广东影视
 http://219.159.194.244:8181/tsfile/live/1004_1.m3u8
@@ -12,17 +14,27 @@ http://219.159.194.244:8181/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",广西 | 岭南戏曲
 http://222.218.158.141:8181/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广西 | 广东珠江
+http://171.104.192.157:8181/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广西 | 广东珠江
+http://171.104.192.157:8181/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广西 | 广东珠江
 http://222.218.158.141:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广西 | 广东珠江
 http://219.159.194.244:8181/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广西 | 广东少儿
+http://171.104.192.157:8181/tsfile/live/1019_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广西 | 广东少儿
 http://222.218.158.141:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广西 | 广东少儿
 http://219.159.194.244:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东民生.png",广西 | 广东民生
+http://171.104.192.157:8181/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东民生.png",广西 | 广东民生
 http://222.218.158.141:8181/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东民生.png",广西 | 广东民生
 http://219.159.194.244:8181/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广西 | 广东新闻
+http://171.104.192.157:8181/tsfile/live/1014_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广西 | 广东新闻
 http://222.218.158.141:8181/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广西 | 广东新闻
