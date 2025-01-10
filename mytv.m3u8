@@ -119,11 +119,11 @@ http://119.123.79.35:9600/hls/27/index.m3u8
 http://113.118.13.254:808/hls/8/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png",广东 | 嘉佳卡通
 http://120.238.94.10:9901/tsfile/live/1038_1.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/都市频道.png",广东 | 深圳少儿
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",广东 | 深圳少儿
 http://119.123.79.35:9600/hls/30/index.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/都市频道.png",广东 | 深圳电视剧
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",广东 | 深圳电视剧
 http://119.123.79.35:9600/hls/31/index.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/都市频道.png",广东 | 深圳体育
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",广东 | 深圳体育
 http://119.123.79.35:9600/hls/32/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
 http://119.123.79.35:9600/hls/19/index.m3u8
