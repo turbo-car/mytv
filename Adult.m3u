@@ -363,8 +363,6 @@ http://live.mycamtv.com/white.m3u8
 http://live.mycamtv.com/young.m3u8
 #EXTINF:-1 group-title="Live",Zoom TV
 http://178.219.128.68:64889//ZOOMTVHD
-#EXTINF:-1 group-title="Live",Кино 18 + HD
-http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18075/index.m3u8
 #EXTINF:-1 group-title="Adult",2
 https://vd3.bdstatic.com/mda-parhpikhbstfmeg6/720p/h264/1674736207209234905/mda-parhpikhbstfmeg6.mp4?pd=19&vt=1
 #EXTINF:-1 group-title="Adult",3
