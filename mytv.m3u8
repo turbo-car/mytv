@@ -38,6 +38,8 @@ https://stream1.freetv.fun/yan-dong-zhu-jiang-5.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",广东 | 岭南戏曲
 http://113.101.119.26:8090/hls/22/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",广东 | 岭南戏曲
+http://113.101.119.62:8090/hls/22/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",广东 | 岭南戏曲
 http://113.86.205.6:808/hls/22/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",广东 | 岭南戏曲
 http://113.86.205.59:808/hls/22/index.m3u8
