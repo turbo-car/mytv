@@ -4,6 +4,8 @@ http://119.123.77.41:9600/hls/25/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
 http://119.123.79.35:9600/hls/25/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+http://120.84.121.65:808/hls/142/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
 http://113.86.205.59:8090/hls/110/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
 http://113.86.205.59:808/hls/110/index.m3u8
@@ -38,6 +40,8 @@ https://stream1.freetv.fun/yan-dong-zhu-jiang-10.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东 | 广东珠江
 https://stream1.freetv.fun/yan-dong-zhu-jiang-5.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",广东 | 岭南戏曲
+http://120.84.121.65:808/hls/143/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",广东 | 岭南戏曲
 http://113.101.119.26:8090/hls/22/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",广东 | 岭南戏曲
 http://113.101.119.62:8090/hls/22/index.m3u8
@@ -51,6 +55,8 @@ http://113.101.119.62:808/hls/22/index.m3u8
 http://119.123.77.41:9600/hls/23/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",广东 | 大湾区卫视
 http://119.123.79.35:9600/hls/23/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",广东 | 大湾区卫视
+http://120.84.121.65:808/hls/119/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",广东 | 大湾区卫视
 http://113.101.119.62:808/hls/109/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",广东 | 大湾区卫视
@@ -72,6 +78,8 @@ http://119.123.77.41:9600/hls/20/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东 | 广东新闻
 http://119.123.79.35:9600/hls/20/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东 | 广东新闻
+http://120.84.121.65:808/hls/124/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东 | 广东新闻
 http://113.101.119.62:808/hls/106/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东 | 广东新闻
 http://113.101.119.26:808/hls/106/index.m3u8
@@ -79,6 +87,8 @@ http://113.101.119.26:808/hls/106/index.m3u8
 http://113.86.205.6:808/hls/106/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东新闻.png",广东 | 广东新闻
 http://113.86.205.59:808/hls/106/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东民生.png",广东 | 广东民生
+http://120.84.121.65:808/hls/148/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东民生.png",广东 | 广东民生
 http://113.86.205.59:8090/hls/107/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东民生.png",广东 | 广东民生
@@ -95,6 +105,8 @@ http://113.86.205.6:808/hls/107/index.m3u8
 http://119.123.77.41:9600/hls/26/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东 | 广东少儿
 http://119.123.79.35:9600/hls/26/index.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东 | 广东少儿
+http://120.84.121.65:808/hls/120/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东 | 广东少儿
 http://113.101.119.62:808/hls/111/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png",广东 | 广东少儿
