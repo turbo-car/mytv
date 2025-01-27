@@ -95,6 +95,8 @@ http://119.123.79.35:9600/hls/19/index.m3u8
 http://119.123.77.41:9600/hls/19/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",周星驰电影(粵語）
 http://cdn.jdshipin.com:8880/huyaqp.php?id=11336587
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",周星驰电影(粵語）
+http://rihou.cc:555/huyad.php?id=11336587
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",粤语电影1
 http://epg.112114.xyz/douyu/6566671
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png",粤语电影2
