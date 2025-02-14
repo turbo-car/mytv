@@ -3,7 +3,8 @@
 #http://mgsp-hs2.live.miguvideo.com:8088/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?msisdn=103ab884936805bb028e60523e9dea28&mdspid=&spid=699054&netType=4&sid=2206173738&pid=2028597139&timestamp=20250213172341&Channel_ID=0116_2505090870-99000-200300020100001&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=119.3.179.64&SecurityKey=20250213172341&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=ZQ-A1-8.2.1-RELEASE&userid=251153159&jmhm=103ab884936805bb028e60523e9dea28&videocodec=h264&mgdbId=&tid=ipad&conFee=0&mtv_session=16e952011b47ff3012ec12c11c0aca04&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=34525bda13e794095963113f995bd4ec
 ##EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
-http://113.101.119.26:808/hls/110/index.m3u8
+https://tcdn.itouchtv.cn/live/gdys.m3u8?t_token=a370108c67c023c5c5e9de5079932fdf-v3zH0qN73VFiYxv%2Bpf7ryEGjb9r8IYqP%2FCDBsmHzEwQcxU%2FwNL%2B7G8yczzi%2FfT4UrostZTGqB0Z8BPr%2BfDRAXnmCIeksuQmgfF7V8RxaMJHqSwp36gZn93EaU31rrBiqoT4p62D3i4EWvEC9dOdtwnh98YpArzvdw2l%2BOBWIujmm2ICZKlQzgbsj%2FY%2B5tWg%2BaNrc0sW84RoFBsO5dZSNeRRwnlfY4LGgZvWyHKGxcvI5wHvFqAk1j%2FiL%2Ba2bRCSTazFfmB211%2BeGtheKY0dGgy34UT2MSEaVcQgzlJnjOcTcQFfW0OJniZJyoSKgMchGbm2027ct6nXrKjINZJWgAQ%3D%3D
+#http://113.101.119.26:808/hls/110/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东 | 广东珠江
 http://219.137.202.184:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东 | 广东珠江
