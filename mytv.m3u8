@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
 http://mgsp-hs2.live.miguvideo.com:8088/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?msisdn=103ab884936805bb028e60523e9dea28&mdspid=&spid=699054&netType=4&sid=2206173738&pid=2028597139&timestamp=20250216082307&Channel_ID=0116_2505090870-99000-200300020100001&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=119.3.179.64&SecurityKey=20250216082307&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-8.2.1-RELEASE&userid=251153159&jmhm=103ab884936805bb028e60523e9dea28&videocodec=h264&mgdbId=&tid=ipad&conFee=0&mtv_session=a307cdba0d0d050b6581fa068ebf4583&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2b68840066c746c930ccc82e8b92c6ea
-##EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+http://112.89.121.21/PLTV/88888973/224/3221225726/10000100000000060000000000334170_0.smil/01.m3u8
 #http://mom.coms.hk:9901/tsfile/live/1002_1.m3u8
 ##EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
 #http://113.101.119.26:808/hls/110/index.m3u8
