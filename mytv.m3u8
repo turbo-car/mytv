@@ -4,7 +4,11 @@ http://mgsp-hs2.live.miguvideo.com:8088/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?msi
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东 | 广东珠江
 http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",广东 | 大湾区卫视
+http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",广东 | 大湾区卫视
 http://dsk.cc/php/xxtv.php?id=dwqws
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",广东 | 大湾区卫视
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=dwqws
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png",抗日战争电影1
 http://jiaojirentv.top/2020/yy.php?id=1354931585
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png",抗日战争电影2
