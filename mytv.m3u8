@@ -6,15 +6,15 @@ http://112.89.121.21:80/PLTV/88888973/224/3221225726/100001000000000600000000003
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
 http://120.84.121.4:808/hls/142/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东 | 广东珠江
-http://104.152.211.145/live/gdzj.m3u8?kdstime=1743599024&kdssign=b12fc58a472ceeeb0e62c4efa47e3fa4
+http://120.84.121.4:808/hls/122/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东 | 广东体育
-http://209.141.50.150:81/live/gdty.m3u8?kdstime=1743599328&kdssign=a0267357154b1e76d7b823516e987987
+http://120.84.121.4:808/hls/170/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东民生.png",广东 | 广东民生
 http://120.84.121.4:808/hls/148/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png",广东 | 岭南戏曲
 http://120.84.121.4:808/hls/143/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png",广东 | 大湾区卫视
-http://dsk.cc/php/xxtv.php?id=dwqws
+http://120.84.121.4:808/hls/119/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png",抗日战争电影1
 http://jiaojirentv.top/2020/yy.php?id=1354931585
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png",抗日战争电影2
