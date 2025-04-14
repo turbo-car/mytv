@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
-https://hlszymgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?msisdn=05150aa46629dfc17397bc57f619c5d2&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20250413184802&Channel_ID=0132_10010001005&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=171.121.221.200&SecurityKey=20250413184802&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-8.4.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&conFee=0&mtv_session=48675e12804c5a7623e0400bbb0c8593&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=bdda85d28e1c62316fdb42ccdde336ef
+https://hlszymgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?msisdn=f4d158352cb7d1f3ca5b34b4caf508a4&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20250414174157&Channel_ID=0132_10010001005&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=171.121.221.200&SecurityKey=20250414174157&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-8.4.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&conFee=0&mtv_session=592d31b3243a7441133ec7838ec89488&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=34d9df889261a81893d0d15ac4c4468e
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东 | 广东珠江
 http://120.84.121.4:808/hls/122/index.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东 | 广东体育
