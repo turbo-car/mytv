@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="0" tvg-name="Desire" tvg-logo="" group-title="成人",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Brazzers" tvg-logo="" group-title="成人",Brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Dorcel" tvg-logo="" group-title="成人",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Eroxxx" tvg-logo="" group-title="成人",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Extasy" tvg-logo="" group-title="成人",Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="EroxHD" tvg-logo="" group-title="成人",EroxHD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="PlayboyHD" tvg-logo="" group-title="成人",PlayboyHD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="PassionXXX" tvg-logo="" group-title="成人",PassionXXX
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="LeoHD" tvg-logo="" group-title="成人",LeoHD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="RealityKingsHD" tvg-logo="" group-title="成人",RealityKingsHD
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Live",欧美版K频道
 http://live.redtraffic.xyz:80/threesome.m3u8
 #EXTINF:-1 group-title="Live",欧美版K频道
