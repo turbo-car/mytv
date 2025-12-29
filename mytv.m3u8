@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
-https://hlszymgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?msisdn=0771cf14741d310be503c5229b46f58a&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20250725183510&Channel_ID=0132_10010001005&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=171.121.220.255&SecurityKey=20250725183510&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-8.7.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&conFee=0&mtv_session=d1024e3f2e54d6fc709ad117f630b216&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=427bff0e52dccf591e6615d6e224b500
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86&auth=666858
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png",广东体育
