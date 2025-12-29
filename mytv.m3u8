@@ -1,8 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
 http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86&auth=666858
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png",广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+https://hk.188766.xyz/?migutoken=efdebf0230f0596cdbca1aca9be5a134&id=gd_gdys&type=sz
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+https://hls-gateway.vpstv.net/streams/661873.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+https://stream1.freetv.fun/yan-dong-ying-shi-11.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+https://stream1.freetv.fun/yan-dong-ying-shi-17.ctv
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+https://stream1.freetv.fun/yan-dong-ying-shi-2.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+https://stream1.freetv.fun/yan-dong-ying-shi-5.ctv
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+https://stream1.freetv.fun/yan-dong-ying-shi-6.ctv
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+https://stream1.freetv.fun/yan-dong-ying-shi-7.m3u8
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东 | 广东影视
+https://stream1.freetv.fun/yan-dong-ying-shi-8.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png",广东体育
 http://61.145.188.90:50005/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东新闻.png",广东新闻
